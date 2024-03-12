@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>Metroopinion | Earn money online</title>
+
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="canonical" href="https://www.metroopinion.com/cm-fr/register" />
+    <meta property="og:locale" content="fr_CM" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.metroopinion.com/cm-fr/register" />
+    <meta property="og:image" content="https://www.metroopinion.com/img/doing-online-surveys.png" />
+    <meta property="og:site_name" content="MetroOpinion.com Cameroon – French" />
+
+    <link rel="icon" type="image/x-icon" href="https://www.metroopinion.com/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="100x100" href="https://www.metroopinion.com/img/icons/favicons/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="100x100" href="https://www.metroopinion.com/img/icons/favicons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.metroopinion.com/img/icons/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://www.metroopinion.com/img/icons/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.metroopinion.com/img/icons/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.metroopinion.com/img/icons/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.metroopinion.com/img/icons/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://www.metroopinion.com/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://www.metroopinion.com/img/icons/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+                        <link rel="alternate" href="https://www.metroopinion.com/al/register" hreflang="sq-al" />
+                    <link rel="alternate" href="https://www.metroopinion.com/at/register" hreflang="de-at" />
+                    <link rel="alternate" href="https://www.metroopinion.com/by/register" hreflang="ru-by" />
+                    <link rel="alternate" href="https://www.metroopinion.com/be-nl/register" hreflang="nl-be" />
+                    <link rel="alternate" href="https://www.metroopinion.com/be-fr/register" hreflang="fr-be" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ba/register" hreflang="bs-ba" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bg/register" hreflang="bg-bg" />
+                    <link rel="alternate" href="https://www.metroopinion.com/hr/register" hreflang="hr-hr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cy/register" hreflang="el-cy" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cz/register" hreflang="cs-cz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/dk/register" hreflang="da-dk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ee/register" hreflang="et-ee" />
+                    <link rel="alternate" href="https://www.metroopinion.com/fi/register" hreflang="fi-fi" />
+                    <link rel="alternate" href="https://www.metroopinion.com/fr/register" hreflang="fr-fr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/de/register" hreflang="de-de" />
+                    <link rel="alternate" href="https://www.metroopinion.com/gr/register" hreflang="el-gr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/hu/register" hreflang="hu-hu" />
+                    <link rel="alternate" href="https://www.metroopinion.com/is/register" hreflang="is-is" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ie/register" hreflang="en-ie" />
+                    <link rel="alternate" href="https://www.metroopinion.com/it/register" hreflang="it-it" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lv/register" hreflang="lv-lv" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lu-fr/register" hreflang="fr-lu" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lu-de/register" hreflang="de-lu" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lt/register" hreflang="lt-lt" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mk/register" hreflang="mk-mk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mt/register" hreflang="en-mt" />
+                    <link rel="alternate" href="https://www.metroopinion.com/me/register" hreflang="sr-me" />
+                    <link rel="alternate" href="https://www.metroopinion.com/md/register" hreflang="ro-md" />
+                    <link rel="alternate" href="https://www.metroopinion.com/nl/register" hreflang="nl-nl" />
+                    <link rel="alternate" href="https://www.metroopinion.com/no/register" hreflang="nb-no" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pl/register" hreflang="pl-pl" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pt/register" hreflang="pt-pt" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ro/register" hreflang="ro-ro" />
+                    <link rel="alternate" href="https://www.metroopinion.com/rs/register" hreflang="sr-rs" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sk/register" hreflang="sk-sk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/si/register" hreflang="sl-si" />
+                    <link rel="alternate" href="https://www.metroopinion.com/es/register" hreflang="es-es" />
+                    <link rel="alternate" href="https://www.metroopinion.com/se/register" hreflang="sv-se" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ch-fr/register" hreflang="fr-ch" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ch-de/register" hreflang="de-ch" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ch-it/register" hreflang="it-ch" />
+                    <link rel="alternate" href="https://www.metroopinion.com/tr/register" hreflang="tr-tr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ua/register" hreflang="uk-ua" />
+                    <link rel="alternate" href="https://www.metroopinion.com/uk/register" hreflang="en-gb" />
+                    <link rel="alternate" href="https://www.metroopinion.com/au/register" hreflang="en-au" />
+                    <link rel="alternate" href="https://www.metroopinion.com/nz/register" hreflang="en-nz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ao/register" hreflang="pt-ao" />
+                    <link rel="alternate" href="https://www.metroopinion.com/dz/register" hreflang="ar-dz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/dz-fr/register" hreflang="fr-dz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bw/register" hreflang="en-bw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cm-en/register" hreflang="en-cm" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cm-fr/register" hreflang="fr-cm" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ci/register" hreflang="fr-ci" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cd/register" hreflang="en-cd" />
+                    <link rel="alternate" href="https://www.metroopinion.com/eg-ar/register" hreflang="ar-eg" />
+                    <link rel="alternate" href="https://www.metroopinion.com/eg-en/register" hreflang="en-eg" />
+                    <link rel="alternate" href="https://www.metroopinion.com/et/register" hreflang="en-et" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ga/register" hreflang="en-ga" />
+                    <link rel="alternate" href="https://www.metroopinion.com/gm/register" hreflang="en-gm" />
+                    <link rel="alternate" href="https://www.metroopinion.com/gh/register" hreflang="en-gh" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ke/register" hreflang="en-ke" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ls/register" hreflang="en-ls" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ly/register" hreflang="ar-ly" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ly-en/register" hreflang="en-ly" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lr/register" hreflang="en-lr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mw/register" hreflang="en-mw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ma/register" hreflang="ar-ma" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ma-fr/register" hreflang="fr-ma" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mz/register" hreflang="pt-mz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/na/register" hreflang="en-na" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ng/register" hreflang="en-ng" />
+                    <link rel="alternate" href="https://www.metroopinion.com/rw/register" hreflang="en-rw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sn/register" hreflang="fr-sn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sl/register" hreflang="en-sl" />
+                    <link rel="alternate" href="https://www.metroopinion.com/za/register" hreflang="en-za" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sd/register" hreflang="ar-sd" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sd-en/register" hreflang="en-sd" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sz/register" hreflang="en-sz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/tz/register" hreflang="en-tz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/tn/register" hreflang="ar-tn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/tn-fr/register" hreflang="fr-tn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ug/register" hreflang="en-ug" />
+                    <link rel="alternate" href="https://www.metroopinion.com/zm/register" hreflang="en-zm" />
+                    <link rel="alternate" href="https://www.metroopinion.com/zw/register" hreflang="en-zw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/az/register" hreflang="ru-az" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bd/register" hreflang="en-bd" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bh-ar/register" hreflang="ar-bh" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bh-en/register" hreflang="en-bh" />
+                    <link rel="alternate" href="https://www.metroopinion.com/kh/register" hreflang="en-kh" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cn/register" hreflang="zh_CN-cn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/tw/register" hreflang="zh_TW-tw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/hk/register" hreflang="en-hk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/in/register" hreflang="en-in" />
+                    <link rel="alternate" href="https://www.metroopinion.com/id/register" hreflang="id-id" />
+                    <link rel="alternate" href="https://www.metroopinion.com/id-en/register" hreflang="en-id" />
+                    <link rel="alternate" href="https://www.metroopinion.com/iq/register" hreflang="ar-iq" />
+                    <link rel="alternate" href="https://www.metroopinion.com/iq-en/register" hreflang="en-iq" />
+                    <link rel="alternate" href="https://www.metroopinion.com/il/register" hreflang="en-il" />
+                    <link rel="alternate" href="https://www.metroopinion.com/jp/register" hreflang="ja-jp" />
+                    <link rel="alternate" href="https://www.metroopinion.com/jo/register" hreflang="ar-jo" />
+                    <link rel="alternate" href="https://www.metroopinion.com/jo-en/register" hreflang="en-jo" />
+                    <link rel="alternate" href="https://www.metroopinion.com/kz/register" hreflang="ru-kz" />
+                    <link rel="alternate" href="https://www.metroopinion.com/kw-ar/register" hreflang="ar-kw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/kw-en/register" hreflang="en-kw" />
+                    <link rel="alternate" href="https://www.metroopinion.com/la/register" hreflang="en-la" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lb/register" hreflang="ar-lb" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lb-en/register" hreflang="en-lb" />
+                    <link rel="alternate" href="https://www.metroopinion.com/my/register" hreflang="en-my" />
+                    <link rel="alternate" href="https://www.metroopinion.com/my-ms/register" hreflang="ms-my" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mm/register" hreflang="en-mm" />
+                    <link rel="alternate" href="https://www.metroopinion.com/om/register" hreflang="en-om" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pk/register" hreflang="en-pk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ps/register" hreflang="ar-ps" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ph/register" hreflang="en-ph" />
+                    <link rel="alternate" href="https://www.metroopinion.com/qa-ar/register" hreflang="ar-qa" />
+                    <link rel="alternate" href="https://www.metroopinion.com/qa-en/register" hreflang="en-qa" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sa/register" hreflang="ar-sa" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sa-en/register" hreflang="en-sa" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sg/register" hreflang="en-sg" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sg-zh/register" hreflang="zh_CN-sg" />
+                    <link rel="alternate" href="https://www.metroopinion.com/kr/register" hreflang="ko-kr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/lk/register" hreflang="en-lk" />
+                    <link rel="alternate" href="https://www.metroopinion.com/th/register" hreflang="th-th" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ae/register" hreflang="en-ae" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ae-ar/register" hreflang="ar-ae" />
+                    <link rel="alternate" href="https://www.metroopinion.com/vn/register" hreflang="vi-vn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ye/register" hreflang="ar-ye" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ca/register" hreflang="en-ca" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ca-fr/register" hreflang="fr-ca" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cr/register" hreflang="es-cr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/do/register" hreflang="es-do" />
+                    <link rel="alternate" href="https://www.metroopinion.com/sv/register" hreflang="es-sv" />
+                    <link rel="alternate" href="https://www.metroopinion.com/gt/register" hreflang="es-gt" />
+                    <link rel="alternate" href="https://www.metroopinion.com/hn/register" hreflang="es-hn" />
+                    <link rel="alternate" href="https://www.metroopinion.com/mx/register" hreflang="es-mx" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ni/register" hreflang="es-ni" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pa/register" hreflang="es-pa" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pr/register" hreflang="es-pr" />
+                    <link rel="alternate" href="https://www.metroopinion.com/us/register" hreflang="en-us" />
+                    <link rel="alternate" href="https://www.metroopinion.com/us-es/register" hreflang="es-us" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ar/register" hreflang="es-ar" />
+                    <link rel="alternate" href="https://www.metroopinion.com/bo/register" hreflang="es-bo" />
+                    <link rel="alternate" href="https://www.metroopinion.com/br/register" hreflang="pt-br" />
+                    <link rel="alternate" href="https://www.metroopinion.com/cl/register" hreflang="es-cl" />
+                    <link rel="alternate" href="https://www.metroopinion.com/co/register" hreflang="es-co" />
+                    <link rel="alternate" href="https://www.metroopinion.com/ec/register" hreflang="es-ec" />
+                    <link rel="alternate" href="https://www.metroopinion.com/py/register" hreflang="es-py" />
+                    <link rel="alternate" href="https://www.metroopinion.com/pe/register" hreflang="es-pe" />
+                    <link rel="alternate" href="https://www.metroopinion.com/uy/register" hreflang="es-uy" />
+            
+
+    <link href="https://www.metroopinion.com/css/app.css?id=5c96e52eddf0b8daa1b3c8809c6dbd10" rel="stylesheet">
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        (function(w,d,t,r,u)
+        {
+            var f,n,i;
+            w[u]=w[u]||[],f=function()
+            {
+                var o={ti:" 199001830"};
+                o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")
+            },
+                n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function()
+            {
+                var s=this.readyState;
+                s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)
+            },
+                i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)
+        })
+        (window,document,"script","//bat.bing.com/bat.js","uetq");
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51881958-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-51881958-2');
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SJ2TP50H8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4SJ2TP50H8');
+    </script>
+    </head>
+<script src="https://www.google.com/recaptcha/api.js?render=6LcySFYeAAAAAOTXBd14RsFGiFYmXFtbY37zJV9Y"></script>
+<body>
+
+
+
+<div class="mt-4 bg-white"  >
+    <div class="text-center ">
+        <img src="https://www.metroopinion.com/img/metroopinion-logo.png" alt="Metroopinion Logo">
+    </div>
+    <div class="text-center m-1">
+        <h2 class="fs-1" style="font-weight: 600">Gagner de l’argent</h2>
+    </div>
+    <div id="panelist_form_container">
+        <div id="panelist_form">
+            <form action="https://www.metroopinion.com/cm-fr/register" method="POST" id="panelist_signup_form">
+                <input type="hidden" name="_token" value="96APUS8JsaiJzx9QlpV5m7z6ZSpiIkOtv7hExaaW">                <!-- hidden reCaptcha token input -->
+                <input type="hidden" id="g-recaptcha-token" name="g-recaptcha-token">
+
+                <div class="row">
+                    <div class="col-sm-12 mt-2">
+                        <div class="form-group">
+                            <label class="form-label" for="panelist_email_address">
+                                <span>E-mail</span>
+                            </label>
+                            <input required type="email"
+                                   class="form-control  form-control-gray "
+                                   id="panelist_email_address" name="email_address" data-validation="email"
+                                   value="" autocomplete="email" autofocus/>
+                            <div style="display: none" class="text-danger">Did you mean
+                            <a id="correct-email" style="color:inherit; text-decoration: underline; font-weight: bold"
+                               href="#"></a>?
+                            </div>
+                                                    </div>
+                                            </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 mt-2">
+                        <div class="form-group">
+                            <label class="form-label" for="panelist_password">Mot de passe</label>
+                            <div class="position-relative d-flex align-items-center">
+                                <input id="panelist_password"
+                                       minlength="8"
+                                       maxlength="50"
+                                       name="password"
+                                       placeholder="********"
+                                       required="required"
+                                       type="password"
+                                       autocomplete="new-password"
+                                       class="form-control  form-control-gray "
+                                       data-validation="length" data-validation-length="min8">
+                            </div>
+                            <small class="small">
+                                <img width="12" height="12" class="" src="https://www.metroopinion.com/img/icons/info-icon.svg">
+                                Mot de passe doit être d&#039;au moins 8 caractères
+                            </small>
+                        </div>
+                                            </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 mt-2">
+                        <div class="form-group">
+                            <label class="form-label"
+                                   for="panelist_password_repeat">Répéter le mot de passe</label>
+                            <div class="position-relative d-flex align-items-center">
+                                <input id="panelist_password_repeat" minlength="8" name="password_repeat"
+                                       placeholder="********"
+                                       maxlength="50"
+                                       required="required" type="password" autocomplete="new-password"
+                                       class="form-control  form-control-gray "
+                                       data-validation="length" data-validation-length="min8">
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-12 text-center text-black ">
+                        <span>En cliquant sur S&#039;inscrire, vous acceptez notre
+                            <a href="https://www.metroopinion.com/cm-fr/terms-and-conditions">Termes et conditions</a>.
+                        </span>
+                    </div>
+                </div>
+
+                <div class="panelist-button-submit mt-4 text-center">
+                    <button id="panelist_check_form" type="submit" class="btn btn-pn-signup btn-lg w-50">
+                        Inscrivez-vous
+                    </button>
+                    <img class="panelist-button-loader" src="https://www.metroopinion.com/img/loader.gif">
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-12 text-center text-black fs-6">
+                        <span>Vous avez déjà un compte?
+                            <a href="https://www.metroopinion.com/cm-fr/login">Connexion</a>.
+                        </span>
+                    </div>
+                </div>
+            </form>
+
+            <script>
+                const siteKey = '6LcySFYeAAAAAOTXBd14RsFGiFYmXFtbY37zJV9Y'
+
+                /** Google recaptcha v3 implementation */
+                grecaptcha.ready(function () {
+                    grecaptcha.execute(siteKey, { action: 'homepage' }).then(function (token) {
+                        // console.log(token);
+                        document.getElementById('g-recaptcha-token').value = token
+                    })
+                    // refresh token every minute to prevent expiration
+                    setInterval(function () {
+                        grecaptcha.execute(siteKey, { action: 'homepage' }).then(function (token) {
+                            // console.log( 'refreshed token:', token );
+                            document.getElementById('g-recaptcha-token').value = token
+                        })
+                    }, 60000)
+                })
+
+                const butt = document.getElementById('panelist_check_form')
+
+                butt.addEventListener('click', function (event) {
+                    setTimeout(function () {
+                        event.target.disabled = true
+                    }, 0)
+                })
+
+            </script>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://www.metroopinion.com/js/app.js?id=5d6de1ba6860429a6d9e6608507e55e8" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    (function (e, t, o, n, p, r, i) {
+        e.visitorGlobalObjectAlias = n
+        e[e.visitorGlobalObjectAlias] = e[e.visitorGlobalObjectAlias] || function () {(e[e.visitorGlobalObjectAlias].q = e[e.visitorGlobalObjectAlias].q || []).push(arguments)}
+        e[e.visitorGlobalObjectAlias].l = (new Date).getTime()
+        r = t.createElement('script')
+        r.src = o
+        r.async = true
+        i = t.getElementsByTagName('script')[0]
+        i.parentNode.insertBefore(r, i)
+    })(window, document, 'https://diffuser-cdn.app-us1.com/diffuser/diffuser.js', 'vgo')
+    vgo('setAccount', '28018940')
+    vgo('setTrackByDefault', true)
+
+    vgo('process')
+</script>
+</body>
+</html>
+
+
